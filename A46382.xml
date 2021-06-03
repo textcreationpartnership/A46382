@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A just complaint of the oppressed, because convicted, fined &amp; distrained excessively, unsummon'd &amp; unheard in their own defence upon clandestine evidence of concealed informers, in their prosecution of the peaceable people called Quakers for their religious meetings, examined by the law of God and nations on pregnant instances : humbly presented to the serious consideration of justices and jurors.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46382</idno><idno type="EEBO-CITATION">12724878</idno>
+  <idno type="VID">66303</idno>
+  <idno type="EEBO-PROQUEST">2240987857</idno>
+  
+            <idno type="STC">Wing J1231</idno>
+            <idno type="STC">ESTC R15928</idno>
+            <idno type="OCLC">12724878</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66303)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 694:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A just complaint of the oppressed, because convicted, fined &amp; distrained excessively, unsummon'd &amp; unheard in their own defence upon clandestine evidence of concealed informers, in their prosecution of the peaceable people called Quakers for their religious meetings, examined by the law of God and nations on pregnant instances : humbly presented to the serious consideration of justices and jurors.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  England.</term>
+               <term type="topical_term">Nonjurors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66303:1"/>
+            <p> A Just Complaint OF THE OPPRESSED, BECAUSE Convicted, Fined &amp; Distrained EXCESSIVELY, <hi>Vnsummon'd &amp; Vnheard</hi> In their own DEFENCE; Upon the CLANDESTINE Evidence of Concealed Informers, In their Prosecution of the Peaceable People called <hi>Quakers</hi> for their <hi>Religious Meetings.</hi>
+            </p>
+            <p>Examined by the <hi>Law</hi> of <hi>God</hi> and <hi>Nations</hi> on <hi>Pregnant Instances.</hi>
+            </p>
+            <p>Humbly presented to the Serious Consideration of <hi>Iustices</hi> and <hi>Iurors.</hi>
+            </p>
+            <q>
+               <bibl>Ezek. 45. 9.</bibl>
+               <p>
+                  <hi>O Princes—Remove Violence and Spoil, and Execute Iudgment and Justice.</hi>
+               </p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:66303:2"/>
+            <p> VVE the Oppressed People before mentioned, do seriously declare ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>selves Agrieved and Injured by being Con<g ref="char:EOLhyphen"/>victed and Fined unheard in <hi>our</hi> own defen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and with<g ref="char:EOLhyphen"/>out so much as having any Summons or Notice given <hi>us</hi> to make <hi>our</hi> appearance to answer before <hi>our</hi> Accusers Face to Face be<g ref="char:EOLhyphen"/>fore Conviction, or the Person Convicting; wherein we conceive we have not <hi>Due Order of Law,</hi> nor equal Ri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht allowed us, according to the Law of God, and common course of Justice, usage of <hi>England,</hi> and <hi>Oath of Iustices of Peace,</hi> enjoyning the due Administration of <hi>Equal Law, Justice, and Right to all the King's Subjects, Poor and Rich,</hi> &amp;c. To hea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both parties, that the Person accused (or under Prosecuti<g ref="char:EOLhyphen"/>on) may have Liberty to answer for himself, Plead and make Defence, before Judgment pass, or Process be awarded, or Issue, Is such an Essential and Indispensible point of Justice and equal Right, as cannot be dispersed withal according to the <hi>Oath of Iustices;</hi> and the con<g ref="char:EOLhyphen"/>teary <hi>(viz.</hi> Judging persons unheard) ranked among those ways where<g ref="char:EOLhyphen"/>by Justice is (or may be) perverted. And is therefore by <hi>Michael Dal<g ref="char:EOLhyphen"/>ton,</hi> and o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers, termed <hi>Precipitation.</hi> See <hi>Dalton</hi>'s <hi>Country Justices.</hi> sol. 4, and 5. Under the title of <hi>[The first Ordeining of Iusti<g ref="char:EOLhyphen"/>ces of the Peace.]</hi> the passage is this, <hi>viz.</hi>
+            </p>
+            <p>
+               <q>Justice may be Perveted several wayes, &amp;c.—By Preci<g ref="char:EOLhyphen"/>pitation, or too much Rashness; when they proceed Hastily without Due Examination and Consideration of rhe Fact, and of all Material Circumstances, or <hi>Without Hearing Both Parties:</hi> For as one saith truly, <hi>Qui aliquid statuerit Parte in<g ref="char:EOLhyphen"/>auditâ alterâ aequum Licèt statueris haud aequus est.</hi> i. e. He that shall Judge or Determine a Matter, the one Party being Un<g ref="char:EOLhyphen"/>heard, although he shall Judge aright, yet is he not a Just Judge</q>
+               <q>
+                  <hi>Yea</hi> (saith he) <hi>God himself hath given us Presidents of such Deliberate Proceedings, as you may see in</hi> Genesis, <hi>cap.</hi> 3. <hi>vers.</hi> 8.</q>
+            </p>
+            <pb n="3" facs="tcp:66303:2"/>
+            <p> Proving how God called our first Parents, <hi>Adam</hi> and <hi>Eve,</hi> into Exami<g ref="char:EOLhyphen"/>nation before he past Sentence. And also had even the Serpent convicted of his offence before his Face, by the Womans Evidence, and thereupon told him the reason of his Punishment.</p>
+            <p>He quotes also, <hi>Gen.</hi> 18. 21. Which proves that before the Lord de<g ref="char:EOLhyphen"/>stroyed <hi>Sodom,</hi> he said, <hi>I will go down and see, whether they have do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e al<g ref="char:EOLhyphen"/>together according to the Cry of it, and if not, I will know.</hi> Also he quotes <hi>Judges,</hi> 19. 30. compared with Chap. 20. Verses, 3, 4, 7, 12, 13. Shewing that about the <hi>Benjamites</hi> forcing the <hi>Levite's</hi> Concu<g ref="char:EOLhyphen"/>bines that she died: The Children of <hi>Israel</hi> considered of the matter, took advice and counsel together, examined the <hi>Levite,</hi> saying, <hi>Tell us how was this Wickedness?</hi> And to the <hi>Benjamites, What Wick<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss is this that is done among you? now therefore deliver us the Men, the Children of</hi> Belial, <hi>&amp;c.</hi> And all this before they went out to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>attle against <hi>Benjamin.</hi>
+            </p>
+            <p>To which may be added, it was contrary to the very Law and Justice of the <hi>Romans,</hi> to condemn Persons unheard in their own de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence. The Apostle <hi>Paul,</hi> when Pers<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cuted by the <hi>Jews,</hi> had liberty to answer for himself, before <hi>Festus</hi> and others of the <hi>Roman</hi> Governours, at <hi>Caesar's</hi> Judgment Seat. See <hi>Acts</hi> 21. 40. &amp; 22. 1. <hi>&amp;c.</hi> and Chap. 24. 10. and Chap. 25. 5, 7, 8, 10, 16. When the Chief Priests and Elders of the <hi>Jews</hi> desired to have Judgment against <hi>Paul, Festus</hi> answered them, <hi>It is not the manner of the</hi> Romans <hi>to deliver any Man to die, before that he which is accused have the Acc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs Face to Face, and have License to an<g ref="char:EOLhyphen"/>swer for himself concerning the Crime laid against him.</hi> 'Tis con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rary to the Law of God to convict or condemn Persons unheard. See <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut.</hi> 19 17, 18. viz. <hi>Both the Men betw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en whom the Controversy is, shall stand before the Lord,</hi> &amp;c.<hi>—And the Judges shall make diligent Inquisition,</hi> &amp;c.—</p>
+            <p>And <hi>Nichodemus</hi> said, <hi>Doth our Law judge any Man before it hear him, and know what he doth?</hi> John 7. 51. <hi>Oh! it is the honour of Kings to search out a matter,</hi> Prov. 26. 2. As that Prince and Just Judge said, <hi>I was a Father to the Poor, and the Cause which I knew not I searched out, and I brake the jaws of the Wicked, and pluckt the Spoil out of his Teeth,</hi> Job 29. 16, 17.</p>
+            <p>Against giving Judgment <hi>without hearing the Party, Lord Chief Justice Cook</hi> gives this Instance, <hi>viz.</hi> For <hi>Hussey</hi> the Chief Justice his request to King <hi>Henry</hi> the 7th, <hi>That he would not d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sire to know their O<g ref="char:EOLhyphen"/>pinions before hand in the Case of</hi> Humphrey Stafford (that Arch Traytour) which the King accepted. Upon this Justice <hi>Cook</hi> addeth, <hi>viz.</hi>
+            </p>
+            <pb n="4" facs="tcp:66303:3"/>
+            <p>
+               <q>
+                  <hi>For how can they be Indifferent, who have delivered their Opinions Before-hand, Without Hearing the Party,</hi> when a small Addition or Substraction may al<g ref="char:EOLhyphen"/>ter <note place="margin">Cook 3 part fol. 29.</note> the Case. And farther (saith he) How doth it stand with their <hi>Oath,</hi> who are sworn, <hi>That they should well and Lawfully serve our Lord the King, and his People, in the Office of a Justice, and do Equal Law and Execution of Right to All his Subjects.</hi> See <hi>Cook.</hi> 3 part fol. 29.</q>
+            </p>
+            <p>
+               <hi>Object.</hi> That the Justices Record made of the offence upon the Confession of the party, or Oath of two Witnesses, or notorious Evidence and Circum<g ref="char:EOLhyphen"/>stance of the Fact, shall to all Intents and Purposes be in Law taken and ad<g ref="char:EOLhyphen"/>judged to be a perfect Conviction, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> 'Tis not said, It shall be such a Conviction without hearing the party accused, nor doth this make void the great point of <hi>Equity</hi> and <hi>Justice, Of hearing the party charged before Judgement or Conviction,</hi> but rather grants it as implyed. For,</p>
+            <p>1st. In the first place, the Confession of the party is mentioned in order to Conviction, and to whom is this Confession made but to the Justice convicting? and then the party must needs be heard.</p>
+            <p>2dly. The taking persons assembled into Custody (as the Act directs) it is to the intent they may be proceeded against according to the same <hi>Act</hi> of the 22 <hi>Car.</hi> 2. against <hi>Conventicles,</hi> fol. 10. 11. as the words of the <hi>Act</hi> are plain. But what need of taking them into Custody to such intent, if it were sufficient to convict them in their absence or unheard? Howe<g ref="char:EOLhyphen"/>ver it is not reason to suppose a Statute Law is intended to make void the Justice of <hi>Common Law,</hi> in judicial Proceedings. Nor can it rationally excuse such Conviction of persons unheard, to say there is liberty of Ap<g ref="char:EOLhyphen"/>peal, and Judicial hearing and Tryal allowed thereupon at <hi>Quarter Sessions,</hi> for before that can be obtained the party concerned is Convicted, Adjudg<g ref="char:EOLhyphen"/>ed, and so Condemned (as guilty) and brought under an Execution, his Goods and Chattels seized and distrain'd, and it has been the Lot of divers to be sorely opprest and agriev'd, by the spoil, excess and damage in di<g ref="char:EOLhyphen"/>stress-making; and all this occasion'd by a Conviction and Process there<g ref="char:EOLhyphen"/>upon, the Oppressed being <hi>Vnheard</hi> in their own defence. <hi>Justices</hi> de<g ref="char:EOLhyphen"/>termining offences, <hi>&amp;c.</hi> on <hi>a bare Information for the King,</hi> by the
+<pb n="5" facs="tcp:66303:3"/> Stat. 11. H. 7. c. 3. Lord <hi>Cook</hi> also severely opposeth, in his rea<g ref="char:EOLhyphen"/>sons for the repeal of the said Stat. by one of the 1 H. 8. c. 6. Besides divers Poor Men unable to be at the charge of Appeals, others so oppressed and spoiled by this kind of <hi>precipitant Procedure,</hi> as that they are disabled from prosecuting any appeal, considering the loss of time and charge.</p>
+            <p>And another great Evil, as well as Scandal to the Government, and In<g ref="char:EOLhyphen"/>jury to the Subject, hath happened, as the consequence of Convicting Persons <hi>Vnheard. Informers</hi> have given Informations upon <hi>Oath,</hi> notoriously false in Fact; against certain Persons, to their great trouble and damage, necessitating their giving the Justices the trouble of divers Appeals at their <hi>Quarter Sessions.</hi>
+            </p>
+            <p>Against punishing Persons before heard, take another Instance out of <hi>Judge Cook</hi>'s Instit. 2 pt. fol. 55. <hi>viz.</hi>
+            </p>
+            <p>
+               <q>The Philosophical Poet <hi>Virgil</hi> doth notably describe the damnable and damned Proceedings of the Judge of <hi>Hell, viz.</hi>
+               </q>
+            </p>
+            <p>
+               <q>
+                  <hi>Gnosius hic</hi> Rhadamathus <hi>habet durissima Regna, Castigat{que} audit{que} Dolos Subigit{que} fateri.</hi>
+               </q>
+            </p>
+            <p>
+               <q>First he Punisheth, and then he Heareth, and lastly Com<g ref="char:EOLhyphen"/>pelleth to confess, and make and Marr Laws at his Pleasure.</q>
+            </p>
+            <p>
+               <q>Like as the <hi>Centurion</hi> in the Holy History did St. <hi>Paul;</hi> for the <hi>Text</hi> saith, <hi>Centurio apprehendi Paulum iussit, et eum catenis ligari, et tunc interrogabat quis esset,</hi>
+                  <note place="margin">
+                     <hi>Act.</hi> 22. 24, 27.</note>
+                  <hi>et quid fecisset.</hi>
+               </q>
+            </p>
+            <p>
+               <q>But good Judges and Justices abhor these <note place="margin">
+                     <hi>Cook</hi> 2 Part. Inst. fol. 55.</note> Courses.</q>
+            </p>
+            <p>Whereas in our late Convictions, there's commonly this passage, <hi>viz. As well by the Oath of Two Credible Witnesses, as by the notorious Evidence and Circumstance of the Fact,</hi> &amp;c. To which we say, How can they be Credible Witnesses, who are notoriously known to take upon them to be Common Informers for their own Interest, in part of the Fine? The Act against Conventicles, doth distinguish between Informers and Wit<g ref="char:EOLhyphen"/>nesses; the Informers being only to give Information, or make discovery
+<pb n="6" facs="tcp:66303:4"/> of the Conventicles. The Witnesses to give Testimony of the Fact done by persons unlawfully assembled, as appears by the said Act, 22. <hi>Car.</hi> 2. fol. 6. and 12 for such Witnesses as are assigned by Law and Justice are no parties; nor interressed Persons; but such as the Law renders Credi<g ref="char:EOLhyphen"/>ble, as Sr. <hi>John Fort<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>scue</hi> (Lord Chancellor of England, in the Reign of King <hi>Henry</hi> the 6th) describes them, <hi>viz.</hi>
+            </p>
+            <p>
+               <q>Not <hi>Unknown Witnesses, Hired Persons, Poor Men, Vagabo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ds, Unconstant People,</hi> or such, whose Condition and Nau<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>htiness is unknown; but such as are Neighbours, able to live of their own, of good Name and Fame, of Honest Report, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>'Tis by Evidence of such Witnesses that Jurors ought to be inform<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, Vid. Fortescu <hi>de laudibus legum Angliae,</hi> Chap. 26. pa. 60 61. Chap. 28. page 63, 64.</p>
+            <p>And how can there be t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e notorious Evidence of the Fact in the absence of the Convicting Justice, or when he was neither present at nor saw the Meeting against which Information is given?</p>
+            <p>We further complain of being injured and agrieved in that the Names of these pretended Credible Witnesses, to wit, the Informers, are not inserted in the Process or Warran<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s for Distress, nor Indorsed upon them. Besides, the Master <hi>Informers,</hi> employing other persons for their Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vants or Deputies to Prosecute, <hi>&amp;c.</hi> and to make <hi>Oath</hi> ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inst us under pre<g ref="char:EOLhyphen"/>tence of <hi>Witnesses.</hi> And these proceed clandestinly &amp; hiddenly against us, &amp; their Names concealed, being not indorsed upon the Process; which we also conceive is Illegal, as well as Injurious. See the <hi>Statute</hi> 18 <hi>Eliz.</hi> 5. §. 1. For Redressing of divers Disorders in Common <hi>Informers,</hi> &amp;c</p>
+            <p>
+               <q>Be it Enacted, that every <hi>Informer</hi> upon any Penal Statute, shall exhibit his suit in proper Person, and pursue the same only by himself, or by his <hi>Attorney</hi> in Court. And that none shall be admitted or received to pursue against any Person or Persons upon any Penal Statute, but by way of Information or Original Account, and not otherwise. Nor shall have, nor use any Deputy or Deputys at all, and that upon every such Infor<g ref="char:EOLhyphen"/>mation,
+<pb n="7" facs="tcp:66303:4"/> which shall be Exhibited, a special Note be made of the very Day, Month, and Year of the Exhibiting thereof, <hi>&amp;c.</hi> And that upon every such Process, sued out, shall be <hi>Indorsed,</hi> as well the Partys Name, that pursued the same as also the Statute, upon which the Information, in that behalf made, is gro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nded.</q>
+            </p>
+            <p>Upon which <hi>Shepherd</hi> in his <hi>Justice of Peace,</hi> observes thus, <hi>viz.</hi>
+            </p>
+            <p>
+               <q>If any Clerk that receivs the Information, do not set down the Day, Month, and Year of Exhibiting it, or not indorse upon the Process, the In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ormers Name, and the Statute upon which he goes, or make o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Process before this be done; the Penalty of 40 s. is to be imposed <note place="margin">18 <hi>Eliz.</hi> 5.</note> here, and if the In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ormer have his hand in this, or take reward without license of one of the Courts of West<g ref="char:EOLhyphen"/>minster, or Compound without license, or doth follow any Suit by his Deputy, and not in his proper Person, or by his Attorney in Court, he is to be put in the Pillory two hours in a Market Town, made to pay 10 li. Fine, and be put out of his office, <hi>&amp;c. Shepherds Justice of Peace,</hi> 2 pt. p. 263, 225.</q>
+            </p>
+            <p>It appears that <hi>Informers</hi> legally Authoriz'd, ought to be known <hi>Offi<g ref="char:EOLhyphen"/>cers</hi> of Credit or <hi>Officers</hi> upon Record; and not obscure <hi>Persons,</hi> of Ill Fame, nor Dissolute, nor Poor, <hi>but Responcible in Estate,</hi> able to make re<g ref="char:EOLhyphen"/>stitution, whose <hi>Names, Habitations,</hi> and <hi>Reputations</hi> were unquesti<g ref="char:EOLhyphen"/>oned. <hi>For where the</hi> Informer <hi>is Non-suit or overthrown, the Court shall assign Costs to the Defendant, to be immediately levyed by Execution issuing out of the same Court.</hi> Wingates Abridg. tit. Infor. on Stat. 18 Eliz. 5. See the Stat. § 3.</p>
+            <p>Observe further what Sr. <hi>John Fortescue</hi> saith in this Case in his said Book, in Commendation of the Laws of <hi>England,</hi> Chap. 28.</p>
+            <p>
+               <q>Verily no Man can be safe in Body or Goods whom his Ad<g ref="char:EOLhyphen"/>versary
+<pb n="8" facs="tcp:66303:5"/> may <hi>convince</hi> in every <hi>case, with two unknown wit<g ref="char:EOLhyphen"/>nesses of his own Choosing and bringing forth,</hi> &amp;c.—But such Mischief and Inconvenience cannot be wrought by Witnesses that make their Depositions in the presence of 12 Credible Men, Neighbours to the Deed that is presently in Question, and to the Circumstances of the same, which also know the Manners and Conditions of the same Witnesses, specially, If they be nigh dwellers, and know also whether they be Men worthy to be Credited or no.</q>
+            </p>
+            <p>
+               <hi>Edward Waterhouse</hi> Esq; Commentary on <hi>Fortescue,</hi> 1663. Licensed by the Judges, <hi>Hale, Windham, Bridgman, Atkins, Twisden, Turner, Hide,</hi> and four others, Chap. 26. on the word <hi>Ignoti.</hi>
+            </p>
+            <p>
+               <q>Witnesses are not taken Hab Nab, as we say, such as no bo<g ref="char:EOLhyphen"/>dy knows, but are their own Affirmers, whose Condition, Life and Way men are unsatisfied in, because Secret and Subdolous men never known in their own, nor ever known out of other mens way: Nor <hi>[Conductitij]</hi> Bought and Made Witnesses—so rhat Acceptance of Rewards being Punishable, the Law has done wisely to see that Witnesses be not <hi>Conductitij,</hi> such as either Need for want of Fortune, and will take for Covetise any Gratification to elude Justice, and become False. <hi>[Vagi incon<g ref="char:EOLhyphen"/>stantes]—</hi>Loose Persons—carryed up and down by the Impe<g ref="char:EOLhyphen"/>tuosity of Vice to this and that, without settlement in any thing. The Laws Wisdom is apparent, in that it has excluded <hi>Neces<g ref="char:EOLhyphen"/>sitous Persons,</hi> and such as have habituated themselves to <hi>Shift</hi> and <hi>Shark,</hi> from all Credit, as Witnesses.</q>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
